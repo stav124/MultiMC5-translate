@@ -8,32 +8,32 @@ msgstr ""
 #: src/application/dialogs/AboutDialog.ui:20
 msgctxt "AboutDialog|"
 msgid "About MultiMC"
-msgstr "על MultiMc"
+msgstr "עד אודות MultiMc"
 
 #: src/application/dialogs/AboutDialog.ui:100
 msgctxt "AboutDialog|"
 msgid "About"
-msgstr ""
+msgstr "על אודות"
 
 #: src/application/dialogs/AboutDialog.ui:106
 msgctxt "AboutDialog|"
 msgid "Version:"
-msgstr ""
+msgstr "גרסה:"
 
 #: src/application/dialogs/AboutDialog.ui:116
 msgctxt "AboutDialog|"
 msgid "Platform:"
-msgstr ""
+msgstr "פלטפורמה:"
 
 #: src/application/dialogs/AboutDialog.ui:126
 msgctxt "AboutDialog|"
 msgid "Build Number:"
-msgstr ""
+msgstr "בנייה מספר:"
 
 #: src/application/dialogs/AboutDialog.ui:136
 msgctxt "AboutDialog|"
 msgid "Channel:"
-msgstr ""
+msgstr "ערוץ:"
 
 #: src/application/dialogs/AboutDialog.ui:149
 msgctxt "AboutDialog|"
@@ -41,57 +41,57 @@ msgid ""
 "<html><head/><body><p>MultiMC is a custom launcher that makes managing "
 "Minecraft easier by allowing you to have multiple instances of Minecraft at "
 "once.</p></body></html>"
-msgstr ""
+msgstr "<html><head/><body><p> MultiMc הוא לאנצ'ר מותאם אישית העוזר בניהול קל יותר של מיינקראפט בכך שמאפשר שיהיו מופעים רבים של מיינקראפט באותו הזמן.</p></body></html>"
 
 #: src/application/dialogs/AboutDialog.ui:168
 msgctxt "AboutDialog|"
 msgid "© 2012-2019 MultiMC Contributors"
-msgstr ""
+msgstr "© 2012-2019 MultiMC תורמי"
 
 #: src/application/dialogs/AboutDialog.ui:207
 msgctxt "AboutDialog|"
 msgid "Credits"
-msgstr ""
+msgstr "קרדיטים"
 
 #: src/application/dialogs/AboutDialog.ui:224
 msgctxt "AboutDialog|"
 msgid "License"
-msgstr ""
+msgstr "רישיון"
 
 #: src/application/dialogs/AboutDialog.ui:252
 msgctxt "AboutDialog|"
 msgid "Forking/Redistribution"
-msgstr ""
+msgstr "פיצול/חלוקה מחדש"
 
 #: src/application/dialogs/AboutDialog.ui:274
 msgctxt "AboutDialog|"
 msgid "About Qt"
-msgstr ""
+msgstr "על אודות Qt"
 
 #: src/application/dialogs/AboutDialog.ui:294
 msgctxt "AboutDialog|"
 msgid "Close"
-msgstr ""
+msgstr "סגור"
 
 #: src/application/dialogs/AboutDialog.cpp:88
 msgctxt "AboutDialog|"
 msgid "Version"
-msgstr ""
+msgstr "גרסה"
 
 #: src/application/dialogs/AboutDialog.cpp:89
 msgctxt "AboutDialog|"
 msgid "Platform"
-msgstr ""
+msgstr "פלטפורמה"
 
 #: src/application/dialogs/AboutDialog.cpp:92
 msgctxt "AboutDialog|"
 msgid "Build Number"
-msgstr ""
+msgstr "בנייה מספר"
 
 #: src/application/dialogs/AboutDialog.cpp:97
 msgctxt "AboutDialog|"
 msgid "Channel"
-msgstr ""
+msgstr "ערוץ"
 
 #: src/application/dialogs/AboutDialog.cpp:101
 msgctxt "AboutDialog|"
@@ -113,17 +113,17 @@ msgstr ""
 #: src/application/pages/global/AccountListPage.ui:47
 msgctxt "AccountListPage|"
 msgid "Add"
-msgstr ""
+msgstr "הוסף"
 
 #: src/application/pages/global/AccountListPage.ui:52
 msgctxt "AccountListPage|"
 msgid "Remove"
-msgstr ""
+msgstr "הסר"
 
 #: src/application/pages/global/AccountListPage.ui:57
 msgctxt "AccountListPage|"
 msgid "Set Default"
-msgstr ""
+msgstr "הגדר כברירת מחדל"
 
 #: src/application/pages/global/AccountListPage.ui:65
 msgctxt "AccountListPage|"
@@ -2941,7 +2941,7 @@ msgstr ""
 #: src/application/pages/instance/OtherLogsPage.ui:107
 msgctxt "OtherLogsPage|"
 msgid "Reload"
-msgstr ""
+msgstr "טען מחדש"
 
 #: src/application/pages/instance/OtherLogsPage.ui:126
 msgctxt "OtherLogsPage|"
@@ -4043,12 +4043,12 @@ msgstr ""
 #: src/application/pages/modplatform/VanillaPage.ui:84
 msgctxt "VanillaPage|"
 msgid "Betas"
-msgstr ""
+msgstr "בטא"
 
 #: src/application/pages/modplatform/VanillaPage.ui:94
 msgctxt "VanillaPage|"
 msgid "Alphas"
-msgstr ""
+msgstr "אלפא"
 
 #: src/application/pages/modplatform/VanillaPage.ui:104
 msgctxt "VanillaPage|"
@@ -4058,7 +4058,7 @@ msgstr ""
 #: src/application/pages/modplatform/VanillaPage.ui:127
 msgctxt "VanillaPage|"
 msgid "Refresh"
-msgstr ""
+msgstr "רענן"
 
 #: src/application/pages/modplatform/VanillaPage.h:40
 msgctxt "VanillaPage|"
@@ -4073,12 +4073,12 @@ msgstr ""
 #: src/application/pages/instance/VersionPage.ui:64
 msgctxt "VersionPage|"
 msgid "Actions"
-msgstr ""
+msgstr "פעולות"
 
 #: src/application/pages/instance/VersionPage.ui:107
 msgctxt "VersionPage|"
 msgid "Change version"
-msgstr ""
+msgstr "שנה גרסה"
 
 #: src/application/pages/instance/VersionPage.ui:110
 msgctxt "VersionPage|"
@@ -4108,7 +4108,7 @@ msgstr ""
 #: src/application/pages/instance/VersionPage.ui:131
 msgctxt "VersionPage|"
 msgid "Remove"
-msgstr ""
+msgstr "הסר"
 
 #: src/application/pages/instance/VersionPage.ui:134
 msgctxt "VersionPage|"
@@ -4118,7 +4118,7 @@ msgstr ""
 #: src/application/pages/instance/VersionPage.ui:139
 msgctxt "VersionPage|"
 msgid "Customize"
-msgstr ""
+msgstr "התאמה אישית"
 
 #: src/application/pages/instance/VersionPage.ui:142
 msgctxt "VersionPage|"
@@ -4128,37 +4128,37 @@ msgstr ""
 #: src/application/pages/instance/VersionPage.ui:147
 msgctxt "VersionPage|"
 msgid "Edit"
-msgstr ""
+msgstr "ערוך"
 
 #: src/application/pages/instance/VersionPage.ui:150
 msgctxt "VersionPage|"
 msgid "Edit selected package."
-msgstr ""
+msgstr "ערוך חבילה מסומנת"
 
 #: src/application/pages/instance/VersionPage.ui:155
 msgctxt "VersionPage|"
 msgid "Revert"
-msgstr ""
+msgstr "חזור"
 
 #: src/application/pages/instance/VersionPage.ui:158
 msgctxt "VersionPage|"
 msgid "Revert the selected package to default."
-msgstr ""
+msgstr "החזר חבילה מסומנת לברירת מחדל"
 
 #: src/application/pages/instance/VersionPage.ui:163
 msgctxt "VersionPage|"
 msgid "Install Forge"
-msgstr ""
+msgstr "התקן Forge"
 
 #: src/application/pages/instance/VersionPage.ui:166
 msgctxt "VersionPage|"
 msgid "Install the Minecraft Forge package."
-msgstr ""
+msgstr "התקן את חבילת מיינקראפט Forge"
 
 #: src/application/pages/instance/VersionPage.ui:171
 msgctxt "VersionPage|"
 msgid "Install Fabric"
-msgstr ""
+msgstr "התקן Fabric"
 
 #: src/application/pages/instance/VersionPage.ui:174
 msgctxt "VersionPage|"
@@ -4178,17 +4178,17 @@ msgstr ""
 #: src/application/pages/instance/VersionPage.ui:187
 msgctxt "VersionPage|"
 msgid "Install mods"
-msgstr ""
+msgstr "התקן מודים"
 
 #: src/application/pages/instance/VersionPage.ui:190
 msgctxt "VersionPage|"
 msgid "Install normal mods."
-msgstr ""
+msgstr "התקן מודים נורמאלים"
 
 #: src/application/pages/instance/VersionPage.ui:195
 msgctxt "VersionPage|"
 msgid "Add to Minecraft.jar"
-msgstr ""
+msgstr "הוסף לMinecraft.jar"
 
 #: src/application/pages/instance/VersionPage.ui:198
 msgctxt "VersionPage|"
@@ -4203,22 +4203,22 @@ msgstr ""
 #: src/application/pages/instance/VersionPage.ui:208
 msgctxt "VersionPage|"
 msgid "Add Empty"
-msgstr ""
+msgstr "הוסיף ריק"
 
 #: src/application/pages/instance/VersionPage.ui:211
 msgctxt "VersionPage|"
 msgid "Add an empty custom package."
-msgstr ""
+msgstr "הוסף חבילה ריקה מותאמת אישית"
 
 #: src/application/pages/instance/VersionPage.ui:216
 msgctxt "VersionPage|"
 msgid "Reload"
-msgstr ""
+msgstr "טען מחדש"
 
 #: src/application/pages/instance/VersionPage.ui:219
 msgctxt "VersionPage|"
 msgid "Reload all packages."
-msgstr ""
+msgstr "טען מחדש את כל החבילות"
 
 #: src/application/pages/instance/VersionPage.ui:224
 msgctxt "VersionPage|"
@@ -4386,17 +4386,17 @@ msgstr ""
 #: src/application/pages/instance/VersionPage.h:38
 msgctxt "VersionPage|"
 msgid "Version"
-msgstr ""
+msgstr "גרסה"
 
 #: src/application/VersionProxyModel.cpp:76
 msgctxt "VersionProxyModel|"
 msgid "Version"
-msgstr ""
+msgstr "גרסה"
 
 #: src/application/VersionProxyModel.cpp:78
 msgctxt "VersionProxyModel|"
 msgid "Minecraft"
-msgstr ""
+msgstr "Minecraft"
 
 #: src/application/VersionProxyModel.cpp:80
 msgctxt "VersionProxyModel|"
@@ -4406,7 +4406,7 @@ msgstr ""
 #: src/application/VersionProxyModel.cpp:82
 msgctxt "VersionProxyModel|"
 msgid "Type"
-msgstr ""
+msgstr "סוג"
 
 #: src/application/VersionProxyModel.cpp:84
 msgctxt "VersionProxyModel|"
@@ -4416,7 +4416,7 @@ msgstr ""
 #: src/application/VersionProxyModel.cpp:86
 msgctxt "VersionProxyModel|"
 msgid "Path"
-msgstr ""
+msgstr "נתיב"
 
 #: src/application/VersionProxyModel.cpp:88
 msgctxt "VersionProxyModel|"
@@ -4467,7 +4467,7 @@ msgstr ""
 #: src/application/VersionProxyModel.cpp:164
 msgctxt "VersionProxyModel|"
 msgid "Recommended"
-msgstr ""
+msgstr "מומלץ"
 
 #: src/application/VersionProxyModel.cpp:171
 #: src/application/VersionProxyModel.cpp:176
@@ -4478,22 +4478,22 @@ msgstr ""
 #: src/application/dialogs/VersionSelectDialog.cpp:81
 msgctxt "VersionSelectDialog|"
 msgid "Choose Version"
-msgstr ""
+msgstr "בחר גרסה"
 
 #: src/application/dialogs/VersionSelectDialog.cpp:82
 msgctxt "VersionSelectDialog|"
 msgid "Reloads the version list."
-msgstr ""
+msgstr "טען מחדש את רשימת הגרסאות"
 
 #: src/application/dialogs/VersionSelectDialog.cpp:83
 msgctxt "VersionSelectDialog|"
 msgid "&Refresh"
-msgstr ""
+msgstr "&טען מחדש"
 
 #: src/application/widgets/VersionSelectWidget.cpp:125
 msgctxt "VersionSelectWidget|"
 msgid "Error"
-msgstr ""
+msgstr "שגיאה"
 
 #: src/application/widgets/VersionSelectWidget.cpp:125
 #, qt-format
@@ -4506,82 +4506,82 @@ msgstr ""
 #: src/api/logic/minecraft/WorldList.cpp:211
 msgctxt "WorldList|"
 msgid "Name"
-msgstr ""
+msgstr "שם"
 
 #: src/api/logic/minecraft/WorldList.cpp:213
 msgctxt "WorldList|"
 msgid "Game Mode"
-msgstr ""
+msgstr "מצב משחק"
 
 #: src/api/logic/minecraft/WorldList.cpp:215
 msgctxt "WorldList|"
 msgid "Last Played"
-msgstr ""
+msgstr "שוחק לאחרונה"
 
 #: src/api/logic/minecraft/WorldList.cpp:224
 msgctxt "WorldList|"
 msgid "The name of the world."
-msgstr ""
+msgstr "השם של העולם"
 
 #: src/api/logic/minecraft/WorldList.cpp:226
 msgctxt "WorldList|"
 msgid "Game mode of the world."
-msgstr ""
+msgstr "מצב משחק העולם."
 
 #: src/api/logic/minecraft/WorldList.cpp:228
 msgctxt "WorldList|"
 msgid "Date and time the world was last played."
-msgstr ""
+msgstr "תאריך וזמן שהעולם שוחק לאחרונה"
 
 #: src/application/pages/instance/WorldListPage.ui:59
 msgctxt "WorldListPage|"
 msgid "Actions"
-msgstr ""
+msgstr "פעולות"
 
 #: src/application/pages/instance/WorldListPage.ui:89
 msgctxt "WorldListPage|"
 msgid "Add"
-msgstr ""
+msgstr "הוסף"
 
 #: src/application/pages/instance/WorldListPage.ui:94
 msgctxt "WorldListPage|"
 msgid "Rename"
-msgstr ""
+msgstr "שנה שם"
 
 #: src/application/pages/instance/WorldListPage.ui:99
 msgctxt "WorldListPage|"
 msgid "Copy"
-msgstr ""
+msgstr "העתק"
 
 #: src/application/pages/instance/WorldListPage.ui:104
 msgctxt "WorldListPage|"
 msgid "Remove"
-msgstr ""
+msgstr "הסר"
 
 #: src/application/pages/instance/WorldListPage.ui:109
 msgctxt "WorldListPage|"
 msgid "MCEdit"
-msgstr ""
+msgstr "MCEdit"
 
 #: src/application/pages/instance/WorldListPage.ui:114
 msgctxt "WorldListPage|"
 msgid "Copy Seed"
-msgstr ""
+msgstr "העתק Seed"
 
 #: src/application/pages/instance/WorldListPage.ui:119
 msgctxt "WorldListPage|"
 msgid "Refresh"
-msgstr ""
+msgstr "טען מחדש"
 
 #: src/application/pages/instance/WorldListPage.ui:124
 msgctxt "WorldListPage|"
 msgid "View Folder"
-msgstr ""
+msgstr "צפה בתיקייה"
 
 #: src/application/pages/instance/WorldListPage.h:45
 msgctxt "WorldListPage|"
 msgid "Worlds"
-msgstr ""
+msgstr "עולמות"
 
 #: src/application/pages/instance/WorldListPage.cpp:76
 msgctxt "WorldListPage|"
@@ -4591,7 +4591,7 @@ msgstr ""
 #: src/application/pages/instance/WorldListPage.cpp:126
 msgctxt "WorldListPage|"
 msgid "Are you sure?"
-msgstr ""
+msgstr "האם את/ה בטוח/ה?"
 
 #: src/application/pages/instance/WorldListPage.cpp:127
 msgctxt "WorldListPage|"
@@ -4600,7 +4600,7 @@ msgid ""
 "The world will be gone forever (A LONG TIME).\n"
 "\n"
 "Do you want to continue?"
-msgstr ""
+msgstr "האם אתה רוצה להמשיך?"
 
 #: src/application/pages/instance/WorldListPage.cpp:207
 msgctxt "WorldListPage|"
@@ -4639,30 +4639,30 @@ msgstr ""
 #: src/application/pages/instance/WorldListPage.cpp:286
 msgctxt "WorldListPage|"
 msgid "Copy World"
-msgstr ""
+msgstr "העתק עולם"
 
 #: src/application/pages/instance/WorldListPage.cpp:286
 msgctxt "WorldListPage|"
 msgid ""
 "Changing a world while Minecraft is running is potentially unsafe.\n"
 "Do you wish to proceed?"
-msgstr ""
+msgstr "האם תרצה להמשיך?"
 
 #: src/application/pages/instance/WorldListPage.cpp:310
 #: src/application/pages/instance/WorldListPage.cpp:333
 msgctxt "WorldListPage|"
 msgid "World name"
-msgstr ""
+msgstr "שם עולם"
 
 #: src/application/pages/instance/WorldListPage.cpp:310
 msgctxt "WorldListPage|"
 msgid "Enter a new name for the copy."
-msgstr ""
+msgstr "הכנס שם חדש להעתק"
 
 #: src/application/pages/instance/WorldListPage.cpp:333
 msgctxt "WorldListPage|"
 msgid "Enter a new world name."
-msgstr ""
+msgstr "הכנס שם עולם חדש"
 
 #: src/api/logic/minecraft/auth/YggdrasilTask.cpp:114
 msgctxt "YggdrasilTask|"
@@ -4741,4 +4741,4 @@ msgstr ""
 #: src/api/logic/minecraft/auth/YggdrasilTask.cpp:234
 msgctxt "YggdrasilTask|"
 msgid "..."
-msgstr ""
+msgstr "..."
